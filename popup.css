@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  min-width: 250px;
+  padding: 15px;
+  background: #f9f9f9;
+  text-align: center;
+}
+button {
+  padding: 8px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: #4a90e2;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+button:hover {
+  background-color: #357abd;
+}
+#title-display {
+  margin-top: 15px;
+  padding: 8px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  color: #333;
+  word-wrap: break-word;
+}
